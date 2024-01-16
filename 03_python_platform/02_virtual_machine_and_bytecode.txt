@@ -1,0 +1,3 @@
+Kompajliranje koda
+
+Kod u .py formatu se formatira u Byte Code, a zatim se pokrece u virtuelnoj masini
