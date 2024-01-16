@@ -1,0 +1,5 @@
+Shadowing
+
+Primjer:
+- Ne imenovati varijablu sa "sum", jer vec postoji ugradjena funkcija "sum"
+- Umjesto toga, imenovati sa npr. "sum_"
