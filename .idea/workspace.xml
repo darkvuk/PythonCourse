@@ -42,14 +42,18 @@
     "Python.01_format.executor": "Run",
     "Python.01_operators.executor": "Run",
     "Python.01_print.executor": "Run",
+    "Python.01_string.executor": "Run",
+    "Python.01_string_class_methods.executor": "Run",
     "Python.01_types.executor": "Run",
     "Python.01_variables.executor": "Run",
     "Python.02_exercise.executor": "Run",
     "Python.02_methods.executor": "Run",
     "Python.02_parameters.executor": "Debug",
     "Python.02_return.executor": "Run",
+    "Python.03_character.executor": "Run",
     "Python.03_numerical_data_types.executor": "Run",
     "Python.04_boolean.executor": "Run",
+    "Python.04_string_module.executor": "Run",
     "Python.05_if.executor": "Run",
     "Python.06_logical_operators.executor": "Run",
     "Python.07_input.executor": "Run",
@@ -69,8 +73,8 @@
       <recent name="C:\Users\darko_qpum6ih\PycharmProjects\Python\01_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_input">
-    <configuration name="03_numerical_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05_exercises">
+    <configuration name="01_string_class_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_conditional_execution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_conditional_execution/03_numerical_data_types.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\darko_qpum6ih\PycharmProjects\Python\06_strings\01_string_class_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_boolean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_conditional_execution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_conditional_execution/04_boolean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_strings/03_character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_if_elif_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_string_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_conditional_execution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\darko_qpum6ih\PycharmProjects\Python\05_conditional_execution\05_if_elif_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_strings/04_string_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_logical_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_conditional_execution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_conditional_execution/06_logical_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_strings/05_exercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_exercises" />
+        <item itemvalue="Python.04_string_module" />
+        <item itemvalue="Python.03_character" />
+        <item itemvalue="Python.01_string_class_methods" />
         <item itemvalue="Python.07_input" />
-        <item itemvalue="Python.06_logical_operators" />
-        <item itemvalue="Python.05_if_elif_else" />
-        <item itemvalue="Python.04_boolean" />
-        <item itemvalue="Python.03_numerical_data_types" />
       </list>
     </recent_temporary>
   </component>
