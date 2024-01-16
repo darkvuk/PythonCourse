@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa84b1d1-f62b-4698-8dc8-7d6f95c065de" name="Changes" comment="" />
+    <list default="true" id="fa84b1d1-f62b-4698-8dc8-7d6f95c065de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +25,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2b284koZv3c0SMa6pYO05mF9ZmE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -42,7 +44,7 @@
     "Python.01_print.executor": "Run",
     "Python.01_variables.executor": "Run",
     "Python.02_methods.executor": "Run",
-    "Python.02_parameters.executor": "Run",
+    "Python.02_parameters.executor": "Debug",
     "Python.02_return.executor": "Run",
     "Python.Excercise02.executor": "Run",
     "Python.Exercise01.executor": "Run",
@@ -60,7 +62,7 @@
       <recent name="C:\Users\darko_qpum6ih\PycharmProjects\Python\01_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_return">
+  <component name="RunManager" selected="Python.02_parameters">
     <configuration name="01_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -195,8 +197,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_return" />
         <item itemvalue="Python.02_parameters" />
+        <item itemvalue="Python.03_return" />
         <item itemvalue="Python.01_methods" />
         <item itemvalue="Python.03_format" />
         <item itemvalue="Python.04_variables" />
