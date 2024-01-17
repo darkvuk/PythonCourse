@@ -39,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_country.executor": "Run",
+    "Python.01_fan.executor": "Run",
     "Python.01_for.executor": "Run",
     "Python.01_for_loop.executor": "Run",
     "Python.01_format.executor": "Run",
@@ -54,19 +55,24 @@
     "Python.02_index_enumerate.executor": "Run",
     "Python.02_methods.executor": "Run",
     "Python.02_motorbike.executor": "Run",
+    "Python.02_object_composition_book_review.executor": "Run",
     "Python.02_parameters.executor": "Debug",
     "Python.02_return.executor": "Run",
     "Python.02_student.executor": "Run",
     "Python.02_while.executor": "Run",
     "Python.03_break_continue.executor": "Run",
     "Python.03_character.executor": "Run",
+    "Python.03_inheritance_animal.executor": "Run",
+    "Python.03_inheritence_animal.executor": "Run",
     "Python.03_numerical_data_types.executor": "Run",
     "Python.03_shorter_if.executor": "Run",
     "Python.03_string_list.executor": "Run",
     "Python.04_boolean.executor": "Run",
     "Python.04_list_slicing.executor": "Run",
     "Python.04_motorbike.executor": "Run",
+    "Python.04_multiple_inheritance.executor": "Run",
     "Python.04_string_module.executor": "Run",
+    "Python.05_abstract_class.executor": "Run",
     "Python.05_constructor.executor": "Run",
     "Python.05_exercises.executor": "Run",
     "Python.05_if.executor": "Run",
@@ -74,6 +80,7 @@
     "Python.06_logical_operators.executor": "Run",
     "Python.06_methods.executor": "Run",
     "Python.06_stack_queue.executor": "Run",
+    "Python.06_template_method_pattern.executor": "Run",
     "Python.07_input.executor": "Run",
     "Python.07_list_of_classes.executor": "Run",
     "Python.08_list_comprehension.executor": "Run",
@@ -96,8 +103,8 @@
       <recent name="C:\Users\darko_qpum6ih\PycharmProjects\Python\01_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11_tuple">
-    <configuration name="07_list_of_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_template_method_pattern">
+    <configuration name="02_object_composition_book_review" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_data_structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_oop2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_data_structures/07_list_of_classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_oop2/02_object_composition_book_review.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_inheritance_animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_data_structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_oop2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_data_structures/08_list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\darko_qpum6ih\PycharmProjects\Python\11_oop2\03_inheritance_animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_multiple_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_data_structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_oop2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_data_structures/09_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_oop2/04_multiple_inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_abstract_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_data_structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_oop2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_data_structures/10_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_oop2/05_abstract_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_template_method_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_data_structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_oop2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_data_structures/11_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_oop2/06_template_method_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11_tuple" />
-        <item itemvalue="Python.10_dictionary" />
-        <item itemvalue="Python.09_set" />
-        <item itemvalue="Python.08_list_comprehension" />
-        <item itemvalue="Python.07_list_of_classes" />
+        <item itemvalue="Python.06_template_method_pattern" />
+        <item itemvalue="Python.05_abstract_class" />
+        <item itemvalue="Python.04_multiple_inheritance" />
+        <item itemvalue="Python.03_inheritance_animal" />
+        <item itemvalue="Python.02_object_composition_book_review" />
       </list>
     </recent_temporary>
   </component>
