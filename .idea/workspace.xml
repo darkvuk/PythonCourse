@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa84b1d1-f62b-4698-8dc8-7d6f95c065de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_loops/03_break_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_loops/03_break_continue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_country.executor": "Run",
     "Python.01_for.executor": "Run",
     "Python.01_for_loop.executor": "Run",
     "Python.01_format.executor": "Run",
@@ -52,6 +52,7 @@
     "Python.02_exercise.executor": "Run",
     "Python.02_index_enumerate.executor": "Run",
     "Python.02_methods.executor": "Run",
+    "Python.02_motorbike.executor": "Run",
     "Python.02_parameters.executor": "Debug",
     "Python.02_return.executor": "Run",
     "Python.02_while.executor": "Run",
@@ -60,10 +61,13 @@
     "Python.03_numerical_data_types.executor": "Run",
     "Python.03_shorter_if.executor": "Run",
     "Python.04_boolean.executor": "Run",
+    "Python.04_motorbike.executor": "Run",
     "Python.04_string_module.executor": "Run",
+    "Python.05_constructor.executor": "Run",
     "Python.05_exercises.executor": "Run",
     "Python.05_if.executor": "Run",
     "Python.06_logical_operators.executor": "Run",
+    "Python.06_methods.executor": "Run",
     "Python.07_input.executor": "Run",
     "Python.Excercise02.executor": "Run",
     "Python.Exercise01.executor": "Run",
@@ -81,8 +85,8 @@
       <recent name="C:\Users\darko_qpum6ih\PycharmProjects\Python\01_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_shorter_if">
-    <configuration name="01_predefined_modules_math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_methods">
+    <configuration name="01_country" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_tips" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\darko_qpum6ih\PycharmProjects\Python\08_tips\01_predefined_modules_math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_oop/01_country.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_index_enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_motorbike" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_tips" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_tips/02_index_enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_oop/02_motorbike.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_motorbike" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_loops/02_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_oop/04_motorbike.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_break_continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_loops/03_break_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_oop/05_constructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_shorter_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_tips" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_tips/03_shorter_if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_oop/06_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_shorter_if" />
-        <item itemvalue="Python.02_index_enumerate" />
-        <item itemvalue="Python.01_predefined_modules_math" />
-        <item itemvalue="Python.03_break_continue" />
-        <item itemvalue="Python.02_while" />
+        <item itemvalue="Python.06_methods" />
+        <item itemvalue="Python.05_constructor" />
+        <item itemvalue="Python.04_motorbike" />
+        <item itemvalue="Python.02_motorbike" />
+        <item itemvalue="Python.01_country" />
       </list>
     </recent_temporary>
   </component>
